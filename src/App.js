@@ -2,16 +2,13 @@
 import React from 'react';
 import Footer from './Footer';
 import Navbar from './Navbar.js';
-import LandingPage from './LandingPage.js';
-import Hero from './Hero.js';
-import Members from './Members.js'
 import './css/App.css';
-import Quote from './Quote';
+import Hotel from './Hotel';
 const App = () => {
   return (
     <div>
       <Navbar />
-      <Quote/>
+      <Hotel/>
       <Footer />
     </div>
   );

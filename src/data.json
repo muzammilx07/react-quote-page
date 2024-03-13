@@ -1,0 +1,102 @@
+[
+    {
+        "name": "Grand Plaza Hotel",
+        "stars": 5,
+        "address": "123 Main Street, Cityville, State, Country"
+    },
+    {
+        "name": "Sunset Beach Resort",
+        "stars": 4,
+        "address": "456 Ocean Avenue, Beachtown, State, Country"
+    },
+    {
+        "name": "Mountain View Lodge",
+        "stars": 3,
+        "address": "789 Hilltop Road, Mountainville, State, Country"
+    },
+    {
+        "name": "Royal Palace Hotel",
+        "stars": 5,
+        "address": "101 King's Court, Royaltown, State, Country"
+    },
+    {
+        "name": "Harbor Lights Inn",
+        "stars": 3,
+        "address": "222 Harbor Lane, Portcity, State, Country"
+    },
+    {
+        "name": "Tranquil Haven Retreat",
+        "stars": 4,
+        "address": "333 Serenity Drive, Tranquility Bay, State, Country"
+    },
+    {
+        "name": "Cityscape Hotel",
+        "stars": 4,
+        "address": "444 Downtown Avenue, Metropolis, State, Country"
+    },
+    {
+        "name": "Golden Sands Resort",
+        "stars": 5,
+        "address": "555 Beachside Boulevard, Sunny Beach, State, Country"
+    },
+    {
+        "name": "Pine Valley Inn",
+        "stars": 3,
+        "address": "666 Forest Road, Pinewood, State, Country"
+    },
+    {
+        "name": "Oasis Retreat",
+        "stars": 4,
+        "address": "777 Desert Oasis Road, Sandtown, State, Country"
+    },
+    {
+        "name": "Lakeview Lodge",
+        "stars": 3,
+        "address": "888 Lakeshore Drive, Laketown, State, Country"
+    },
+    {
+        "name": "Highland Hideaway",
+        "stars": 4,
+        "address": "999 Highland Avenue, Hilltop, State, Country"
+    },
+    {
+        "name": "Seaside Manor",
+        "stars": 5,
+        "address": "111 Oceanfront Road, Seasidetown, State, Country"
+    },
+    {
+        "name": "Urban Retreat",
+        "stars": 4,
+        "address": "222 City Center, Downtown, State, Country"
+    },
+    {
+        "name": "Majestic Mountainside Resort",
+        "stars": 5,
+        "address": "333 Summit Avenue, Mountainpeak, State, Country"
+    },
+    {
+        "name": "Riverside Inn",
+        "stars": 3,
+        "address": "444 Riverbank Road, Rivertown, State, Country"
+    },
+    {
+        "name": "Skyline Tower Hotel",
+        "stars": 4,
+        "address": "555 Skyscraper Street, Skyline City, State, Country"
+    },
+    {
+        "name": "Forest Edge Lodge",
+        "stars": 3,
+        "address": "666 Woodland Way, Forestville, State, Country"
+    },
+    {
+        "name": "Island Paradise Resort",
+        "stars": 5,
+        "address": "777 Palm Beach Boulevard, Islandtown, State, Country"
+    },
+    {
+        "name": "Serenity Springs Inn",
+        "stars": 4,
+        "address": "888 Peaceful Path, Serenitytown, State, Country"
+    }
+]
